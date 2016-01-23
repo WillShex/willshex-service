@@ -5,7 +5,7 @@
 //  Created by William Shakour on Jun 14, 2012.
 //  Copyright © 2012 WillShex Limited. All rights reserved.
 //
-package com.spacehopperstudios.service;
+package com.willshex.service;
 
 /**
  * @author William Shakour
