@@ -3,7 +3,7 @@
 //  spchopr.service
 //
 //  Created by William Shakour on Jun 14, 2012.
-//  Copyright © 2012 SPACEHOPPER STUDIOS LTD. All rights reserved.
+//  Copyright © 2012 WillShex Limited. All rights reserved.
 //
 package com.spacehopperstudios.service;
 
